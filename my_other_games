@@ -19,7 +19,7 @@
     <br>
     <h3>Here's some of my more recent works.</h3>
     <p>Brainrot Yourself</p>
-    <iframe src="https://scratch.mit.edu/projects/577363602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen class="scratchgame"></iframe>
-    <p class="instructions"></p>
+    <a href = "Brainrot Yourself.html" class="link"><button class="button">Play</button></a>
+    <p class="instructions">Heavily inspired by those blind rank filters on TikTok, I made a game that completely overhauls this concept. Beyond adjusting the list length and input content, you can both download and upload lists as a .SPIRList file for others to play.</p>
   </body>
 </html>

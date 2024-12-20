@@ -1,1 +1,25 @@
-
+<html>
+  <head>
+  <div class="top">
+      <a href = "index.html">Home</a>
+      <a href = "games.html">My Games</a>
+      <a href = "patch_notes.html">Patch Notes</a>
+      <a href = "discord.html">Discord Server</a>
+    </div>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Other things ive made</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <h2>Other Projects</h2>
+    <br>
+    <h3>Here's some of my more recent works.</h3>
+    <p>Brainrot Yourself</p>
+    <iframe src="https://scratch.mit.edu/projects/577363602/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen class="scratchgame"></iframe>
+    <p class="instructions"></p>
+  </body>
+</html>
